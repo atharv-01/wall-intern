@@ -1,0 +1,26 @@
+ .sidebar {
+
+
+     height: 640px;
+     width: 292px;
+     left: -146px;
+     top: -320px;
+     border-radius: 16px;
+     padding: 16px 16px 24px 16px;
+     background-color: #111111;
+     ;
+
+ }
+
+ .paragraph {
+     width: 258 px;
+     height: 72px;
+     margin-top: 52px;
+     margin-left: 16px;
+     color: #A2A2A2;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 23.8px;
+
+
+ }

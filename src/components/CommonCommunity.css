@@ -1,0 +1,28 @@
+.commonCommunity {
+    height: 76px;
+    width: 260px;
+    margin-left: 16px;
+    margin-top: 22px;
+    border-radius: 0px;
+    position: absolute;
+    color: #A2A2A2;
+    gap: 8px;
+}
+
+.CommunityImages {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+
+
+.cim {
+    height: 48px;
+    width: 48px;
+    margin-left: 0px;
+    margin-top: 8px;
+    border-radius: 8px;
+
+
+}

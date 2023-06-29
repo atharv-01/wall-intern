@@ -1,0 +1,175 @@
+.utility {
+    height: 100px;
+    width: 260px;
+    margin-left: 16px;
+    margin-top: 139px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+
+}
+
+.utilityDesc1,
+.utilityDesc2,
+.utilityDesc3 {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+
+}
+
+.utilityDesc1 {
+
+    height: 28px;
+    width: 247px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+    gap: 8px;
+}
+
+.Descone1 {
+    height: 17px;
+    width: 70px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border: 1px solid #FFC148;
+    border-radius: 40px;
+    padding: 6px 10px 6px 10px;
+    gap: 8px;
+    justify-content: center;
+    color: #FFC148;
+
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.Descone2 {
+    height: 17px;
+    width: 98px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 40px;
+    padding: 6px 10px 6px 10px;
+    color: #FFC148;
+
+    border: 1px solid #FFC148;
+
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.Descone3 {
+    height: 17px;
+    width: 74px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 40px;
+    padding: 6px 10px 6px 10px;
+    color: #A2A2A2;
+    font-size: 12px;
+    border: 1px solid #1A1A1A;
+
+
+
+
+}
+
+.Desctwo1 {
+    height: 17px;
+    width: 116px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 40px;
+    padding: 6px 10px 6px 10px;
+    background-color: #111111;
+    border: 1px solid #1A1A1A;
+    color: #A2A2A2;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.Desctwo2 {
+    height: 17px;
+    width: 97px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: 111111;
+    border: 1px solid #1A1A1A;
+    border-radius: 40px;
+    padding: 6px 10px 6px 10px;
+
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A2A2A2;
+
+
+}
+
+.utilityDesc3 {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A2A2A2;
+
+}
+
+.Descthree1 {
+    height: 17px;
+    width: 74px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 40px;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid #1A1A1A;
+
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.Descthree2 {
+    height: 17px;
+    width: 74px;
+    margin-top: 0px;
+    border-radius: 40px;
+    padding: 6px 10px 6px 10px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    border: 1px solid #1A1A1A;
+
+}

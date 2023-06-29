@@ -1,0 +1,10 @@
+/* * {
+  background-color: #1E1E1E;
+} */
+
+.App {
+  background-color: #1E1E1E;
+  /* display: flex;
+  flex-direction: row;
+  justify-items: flex-start; */
+}

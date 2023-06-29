@@ -1,0 +1,156 @@
+.card2 {
+    height: 305px;
+    width: 1069px;
+    left: 356px;
+
+    top: 93px;
+    border-radius: 0px;
+    position: relative;
+    gap: 16px;
+    display: flex;
+    flex-direction: row;
+    background-color: #1E1E1E;
+}
+
+.box {
+    height: 305px;
+    width: 201px;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+    padding: 4px 4px 8px 4px;
+    /* background-color: #fff; */
+    display: flex;
+    flex-direction: column;
+
+}
+
+.photo {
+    height: 193px;
+    width: 193px;
+    /* left: 4px;
+    top: 4px; */
+    border-radius: 4px;
+
+}
+
+.month {
+    background-color: #00000080;
+
+    height: 22px;
+    width: 69px;
+    margin-left: -93px;
+    margin-top: 162px;
+    border-radius: 31px;
+    padding: 1px 6px 1px 6px;
+
+    font-family: Sharp Grotesk;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+
+.lowerPart {
+    display: flex;
+    flex-direction: column;
+    height: 76px;
+    width: 185px;
+    left: 4px;
+    top: 4px;
+    border-radius: 0px;
+    gap: 8px;
+}
+
+.heading {
+
+    font-family: Sharp Grotesk;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FAFAFA;
+
+}
+
+.subHeading {
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    width: 181px;
+    left: 0px;
+    top: 28px;
+    border-radius: 0px;
+    justify-content: space-between;
+
+    font-family: Sharp Grotesk;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A2A2A2;
+
+}
+
+.downHeading {
+    justify-content: space-between;
+}
+
+.downHeading,
+.downHeading2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.downHeading1 {
+    height: 15px;
+    width: 31px;
+    left: 0px;
+    top: 0px;
+    border-radius: nullpx;
+
+    font-family: Sharp Grotesk;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #A2A2A2;
+
+}
+
+.downHeading2 {
+    position: relative;
+}
+
+
+.amount1 {
+
+
+    font-family: Sharp Grotesk;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FAFAFA;
+    margin-left: -35px;
+    position: absolute;
+}
+
+.amount2 {
+
+    font-family: Sharp Grotesk;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19ED7B;
+}
